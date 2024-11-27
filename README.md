@@ -1,4 +1,4 @@
-Segunda entrega 
+Segunda entrega proyecto SQL
 
 Vistas
 Funciones
